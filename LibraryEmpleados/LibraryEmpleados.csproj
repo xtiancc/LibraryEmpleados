@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>LibraryEmpleadosCCC</PackageId>
+    <Authors>Cristian C</Authors>
+    <Description>Librería para mapear EMP de Azure</Description>
+    <Product>EmpleadosAzure</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.13" />
+  </ItemGroup>
+
+</Project>
