@@ -10,7 +10,7 @@ namespace LibraryEmpleados
 {
     // Mapear nuestra base de datos
     [Table("EMP")]
-    public class Empleados
+    public class Empleado
     {
         [Key]
         [Column("EMP_NO")]
