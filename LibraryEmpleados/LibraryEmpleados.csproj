@@ -6,6 +6,7 @@
     <Authors>Cristian C</Authors>
     <Description>Librería para mapear EMP de Azure</Description>
     <Product>EmpleadosAzure</Product>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>

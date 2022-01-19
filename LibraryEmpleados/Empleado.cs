@@ -22,6 +22,6 @@ namespace LibraryEmpleados
         [Column("SALARIO")]
         public int Salario { get; set; }
         [Column("DEPT_NO")]
-        public String IdDepartamento { get; set; }
+        public int IdDepartamento { get; set; }
     }
 }
